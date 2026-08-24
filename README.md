@@ -1,5 +1,4 @@
-# 📰 Nabaa - AI-Powered Journalism Platform
-
+# 📰 Nabaa-AI-Journalism-Platfor
 **Nabaa** is an intelligent journalism platform developed as a graduation project in **Information Technology**.
 
 The platform combines **Artificial Intelligence (AI), Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Machine Learning, and modern mobile development technologies** to provide a smarter and more interactive news consumption experience.
