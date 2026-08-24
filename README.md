@@ -227,7 +227,7 @@ Configure the required credentials for services such as:
 
 
 <!-- Add screenshots here -->
-
+![Home](logo.png) 
 ---
 
 ## 🎓 Graduation Project
